@@ -1,0 +1,7 @@
+# Predicting-Visual-Brain-Response-using-Convolutional-Neural-Networks
+
+## Abstract
+
+Understanding the process of visual information extraction by the human brain has been one of the main topics of interest for the researchers in the last few years. The hierarchical structure of the human brain makes it more complex and explorative. Lately, scientists have been trying to develop artificial models of the human brain, which can replicate and reproduce neural activities of the brain in response to visual stimuli. This will help us in understanding the nature of human intelligence, and the knowledge gained can be further used to develop advanced forms of artificial intelligence models which possess the ability to perform complex real-world tasks.
+<br>
+The arrival of deep learning and artificial neural networks have paved the way to predict brain activities. The multi-layered architecture of deep neural networks has been lately used to model the complex hierarchical structure of the human brain. We recreated some widely used convolutional neural networks, namely, AlexNet, VGG and ResNet. Our aim was to identify the model configurations which produce responses to visual stimuli that are most similar to human neural activities, as measured by human fMRI. We found that the layers of AlexNet model best predicted the neural activities of both Early Visual Cortex (EVC) and Inferior Temporal Cortex (IT).
