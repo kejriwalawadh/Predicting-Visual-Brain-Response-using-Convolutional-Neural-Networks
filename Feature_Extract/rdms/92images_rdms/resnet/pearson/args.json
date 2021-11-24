@@ -1,0 +1,5 @@
+{
+    "distance": "pearson",
+    "feat_dir": "./feats/92images_feats/resnet",
+    "save_dir": "./rdms/92images_rdms/resnet"
+}

@@ -1,0 +1,15 @@
+,Network,Layer,EVC,IT,Avg
+0,AlexNet,conv1,6.844,1.253,3.157
+1,AlexNet,conv2,16.793,7.106,10.406
+2,AlexNet,conv3,17.853,7.136,10.787
+3,AlexNet,conv4,13.983,10.662,11.793
+4,AlexNet,conv5,8.029,4.344,5.600
+5,ResNet,block1,8.588,1.533,3.937
+6,ResNet,block2,10.803,1.281,4.525
+7,ResNet,block3,7.448,1.552,3.561
+8,ResNet,block4,12.449,10.018,10.846
+9,VGG,maxpool1,7.235,1.403,3.390
+10,VGG,maxpool2,10.029,1.916,4.680
+11,VGG,maxpool3,14.333,4.758,8.020
+12,VGG,maxpool4,15.746,7.478,10.295
+13,VGG,maxpool5,9.503,5.034,6.556
